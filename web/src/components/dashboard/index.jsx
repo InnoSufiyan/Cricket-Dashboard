@@ -123,7 +123,7 @@ function Scoreboard() {
               return { ...prev, score2: e.target.value };
             });
           }}
-          placeholder="What's the Target"
+          placeholder="What's thdfdfdfdfdfdfdfde Tnparget"
         />
         <br />
         <TextField
